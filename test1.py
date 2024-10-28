@@ -75,6 +75,7 @@ def statistical_analysis(data):
     
     return results
 
+<<<<<<< HEAD
 def analyze_by_country(data):
     """
     Аналіз метрик по країнах
@@ -149,3 +150,8 @@ def run_analysis(data):
 df = pd.read_csv('task1.csv')
 
 run_analysis(df)
+=======
+# Видача метрик по країнах
+print("\nМетрики по країнах:")
+print(results['country_metrics'])   
+>>>>>>> 73da8c2e5c0a87f3674da0eff5cd459fc509b628
