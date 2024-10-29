@@ -1,0 +1,33 @@
+A/B Test Analysis Summary
+==================================================
+
+Key Metrics:
+--------------------
+
+Control Group:
+Users: 7,627
+Trial Rate: 12.1% ±0.7%
+Paid Rate: 12.5% ±2.1%
+ARPU: $0.09
+ARPPU: $5.99
+Total Revenue: $694.84
+
+Treatment Group:
+Users: 7,658
+Trial Rate: 10.4% ±0.7%
+Paid Rate: 18.7% ±2.7%
+ARPU: $0.10
+ARPPU: $5.32
+Total Revenue: $792.35
+
+Statistical Tests:
+--------------------
+Trial Conversion: p=0.0009
+Paid Conversion: p=0.0006
+Revenue: p=0.0534
+
+Lift Analysis:
+--------------------
+Trial Rate Lift: -14.1%
+Paid Rate Lift: +48.9%
+ARPU Lift: +13.6%
